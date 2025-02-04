@@ -1,2 +1,2 @@
 # hotel-booking
-a hotel booking app
+a hotel booking website
